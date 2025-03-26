@@ -1,2 +1,4 @@
+.ipynb-checkpoints/*
+data/
 .ipynb-checkpoints
 *.pt
