@@ -4,11 +4,11 @@
  
 ## Table of Contents
 
-1. [Chapter 1 - Introduction](chapter-1-introduction)
-2. [Chapter 2 - Preliminaries](chapter-2-preliminaries)
-3. [Chapter 3 - Linear Neural Networks For Regression](chapter-3-linear-neural-networks-for-regression)
-4. [Chapter 4 - Linear Neural Networks For Classification](chapter-4-linear-neural-networks-for-classification)
-5. [Chapter 5 - Multilayer Perceptrons](chapter-5-multilayer-perceptrons)
-6. [Chapter 6 - PyTorch Builder's Guide](chapter-6-pytorch-builders-guide)
-7. [Chapter 7 - Convolutional Neural Networks](chapter-7-convolutional-neural-networks)
-8. [Chapter 8 - Modern Convolutional Neural Networks](chapter-8-modern-convolutional-neural-networks)
+1. [Chapter 1 - Introduction](1-introduction)
+2. [Chapter 2 - Preliminaries](2-preliminaries)
+3. [Chapter 3 - Linear Neural Networks For Regression](3-linear-networks-for-regression)
+4. [Chapter 4 - Linear Neural Networks For Classification](4-linear-networks-for-classification)
+5. [Chapter 5 - Multilayer Perceptrons](5-multilayer-perceptrons)
+6. [Chapter 6 - PyTorch Builder's Guide](6-pytorch-builders-guide)
+7. [Chapter 7 - Convolutional Neural Networks](7-convolutional-neural-networks)
+8. [Chapter 8 - Modern Convolutional Neural Networks](8-modern-convolutional-networks)
